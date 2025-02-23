@@ -1,1 +1,3 @@
 # odin_recipes
+
+Making the first project with core html features learned in this chapter including lists, headings, paragraphs...
