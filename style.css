@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightpink;
+}
+.title{
+    font-weight: 900;
+    color: lightcoral;
+}
+img{
+    width: 144px;
+    height: auto;
+}
+h3{
+    background-color: lightcoral;
+}
